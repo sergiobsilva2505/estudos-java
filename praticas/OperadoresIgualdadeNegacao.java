@@ -10,5 +10,6 @@ public class OperadoresIgualdadeNegacao {
 
         // System.out.printf("Numeros iguais: %b%n", numerosIguais);
         System.out.printf("Numeros iguais: %b%n", numero1 == numero2);
+        System.out.println(numerosIguais);
     }
 }

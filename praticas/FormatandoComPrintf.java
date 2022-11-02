@@ -34,6 +34,8 @@ public class FormatandoComPrintf {
         // System.out.printf("Para colocar a quantidade de casas decimais desejadas Ex: %.3f.%n", flutuante2);
 
         System.out.printf("Para colocar a quantidade de casas decimais desejadas Ex: %10.3f.%n", flutuante);
+        System.out.printf("%.3f%n", flutuante2);
+
 
 
     }
