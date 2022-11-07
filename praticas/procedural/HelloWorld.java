@@ -1,4 +1,4 @@
-package praticas;
+package praticas.procedural;
 
 /**
  * HelloWorld

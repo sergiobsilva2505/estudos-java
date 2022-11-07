@@ -1,4 +1,4 @@
-package praticas;
+package praticas.procedural;
 
 public class PromocaoAritmetica1 {
     public static void main(String[] args) {

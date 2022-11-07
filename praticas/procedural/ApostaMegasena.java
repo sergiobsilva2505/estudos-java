@@ -1,4 +1,4 @@
-package praticas;
+package praticas.procedural;
 
 import java.util.Scanner;
 
@@ -33,5 +33,7 @@ public class ApostaMegasena {
         } while (numeroAtual <= quantidadeNumeros);
     
         System.out.printf("Números escolhidos: %s%n", numerosEscolhidos);
+
+        entrada.close();
     }
 }

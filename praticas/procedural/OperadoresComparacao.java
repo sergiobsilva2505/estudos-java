@@ -1,4 +1,4 @@
-package praticas;
+package praticas.procedural;
 
 public class OperadoresComparacao {
     public static void main(String[] args) {
